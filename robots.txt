@@ -1,0 +1,10 @@
+# robots.txt for cps-abogados.com
+User-agent: *
+Allow: /
+
+# Bloquear archivos técnicos sin valor SEO
+Disallow: /api/
+Disallow: /_next/
+
+# Sitemap
+Sitemap: https://www.cps-abogados.com/sitemap.xml
